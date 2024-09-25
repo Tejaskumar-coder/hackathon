@@ -1,4 +1,6 @@
 ##### Deployed smartcontract address: CAT4NHPGSDJ6ZLG7PTQU4PPRGO3IQJU3KMXH2HPAXEGE5WUAGW34UII5
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/70070772-6328-469c-9b40-0ce5a3afdc17">
+
 
 # Decentralized Talent Recruitment Platform
 
